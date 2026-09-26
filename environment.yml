@@ -1,0 +1,23 @@
+name: NeuroFusionNet: An Integrated Swin Transformer and CNN–RNN Framework 
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - pillow
+  - tqdm
+  - nibabel
+  - nilearn
+  - jupyter
+  - ipykernel
+  - pip:
+      - tensorflow
+      - keras
+      - torch
+      - torchvision

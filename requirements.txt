@@ -1,0 +1,26 @@
+# Requirements for NeuroFusionNet: An Integrated Swin Transformer and CNN–RNN Framework 
+
+# Scientific computing
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+Pillow
+tqdm
+
+# Medical image processing
+nibabel
+nilearn
+
+# 3D U-Net segmentation (TensorFlow/Keras)
+tensorflow
+keras
+
+# Swin Transformer + CNN-BiLSTM-BiGRU classification (PyTorch)
+torch
+torchvision
+
+# Jupyter
+jupyter
+ipykernel

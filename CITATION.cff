@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "NeuroFusionNet: An Integrated Swin Transformer and CNN–RNN Framework "
+message: "If you use this code or the associated experimental implementation, please cite this software record and the associated research publication."
+type: software
+authors:
+  - family-names: "Iram"
+    given-names: "Faiza"
+    affiliation: "SR University, Warangal, Telangana, India"
+      email: "faizairam01@gmail.com"
+    
+  - family-names: "Shaik"
+    given-names: "Mohammed Ali"
+    affiliation: "School of Computer Science & Artificial Intelligence, SR University, Warangal, Telangana-506371, India"
+    email: "niharali@gmail.com"
+version: "1.0.0"
+date-released: 2026-09-26
+license: "MIT"
+keywords:
+  - brain tumor
+  - BraTS 2023
+  - adult glioma
+  - MRI
+  - deep learning
+  - 3D U-Net
+  - Swin Transformer
+  - CNN
+  - BiLSTM
+  - BiGRU
+  - image segmentation
+  - image classification
